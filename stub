@@ -32,7 +32,10 @@ using Microsoft.VisualBasic.CompilerServices;
 //Assembly [assembly: AssemblyProduct("{4}")]
 //Assembly [assembly: AssemblyCopyright("{5}")]
 //Assembly [assembly: AssemblyFileVersion("{7}.{8}.{9}.{10}")]
-namespace Yazılım_Yapımı_Projesi
+
+
+
+namespace yazilim_projesi
 {
     public class Kelime
     {
@@ -46,7 +49,7 @@ namespace Yazılım_Yapımı_Projesi
         public List<Kelime> kelimeler;
     }
 }
-namespace Yazılım_Yapımı_Projesi
+namespace yazilim_projesi
 {
     static class Program
     {
